@@ -16,6 +16,7 @@
 ## 🧑🏻‍💻 About Me
 
 ```text
+Welcome to my digital corner on GitHub! 🚀
  @IIT Madras BS In Data Sciene And Applications
  B.tech   →  JECRC University, Jaipur
  
@@ -39,6 +40,11 @@
 </div>
 
 ---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=umangraj03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 ## 🏆 Badges & Achievements
 
 🏅 Microsoft AI Fest
@@ -57,11 +63,14 @@
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=umangraj03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+<h3 align="center">💫 Curious. Consistent. Building the Future.  </h3>
+
+
 
