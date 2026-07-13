@@ -38,8 +38,30 @@
   <img src="https://komarev.com/ghpvc/?username=umangraj03&style=for-the-badge&color=FF6F00" />
 </div>
 
-<p align="center">
- 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umangraj03&theme=react-dark&hide_border=true&radius=10" width="100%"/>
-</p>
 ---
+## 🏆 Badges & Achievements
+
+🏅 Microsoft AI Fest
+
+
+	## 🧠 Google AI Badges
+
+  ---
+## 📜 Certifications
+
+<br>✅ IIM Ahmedabad Advanced Leadership Skills
+<br>✅ IIT Madras - Foundational Level  
+✅ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+<br>✅ Python for Data Science, AI & Development (IBM)
+
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=umangraj03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
